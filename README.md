@@ -88,7 +88,7 @@ Each value is then padded to 2 digits with `padStart(2, "0")` and joined as `HH:
 ![Homepage](./img/s1.png)
 ![Products](./img/p54.png)
 
-//////////////////////////////////////////////////////////////////
+---
 
 # React + Vite
 
